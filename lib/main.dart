@@ -19,6 +19,8 @@ class DicePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var leftDiceNumber = 5;
+    String a;
+    int b;
 
     return Center(
       child: Row(
