@@ -21,6 +21,7 @@ class DicePage extends StatelessWidget {
     var leftDiceNumber = 5;
     String a;
     int b;
+    dynamic x;
 
     return Center(
       child: Row(
